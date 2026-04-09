@@ -16,7 +16,7 @@
 Se desarrollará un sistema que permitirá a los usuarios calificar y reseñar proyectos de artistas musicales, incluyendo canciones y sus distintas variantes de álbumes (single, EP y mixtape). Además, el sistema contará con un perfil de administrador que tendrá la capacidad de gestionar a los usuarios y sus reseñas, pudiendo, entre otras acciones, dar de baja tanto cuentas, como sus reseñas.
 
 ### Modelo
-![imagen del modelo](md.image/mdv3.drawio.png)
+![imagen del modelo](md.image/mdv4.drawio.png)
 
 
 ## Alcance Funcional 
