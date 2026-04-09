@@ -16,9 +16,8 @@
 Se desarrollará un sistema que permitirá a los usuarios calificar y reseñar proyectos de artistas musicales, incluyendo canciones y sus distintas variantes de álbumes (single, EP y mixtape). Además, el sistema contará con un perfil de administrador que tendrá la capacidad de gestionar a los usuarios y sus reseñas, pudiendo, entre otras acciones, dar de baja tanto cuentas, como sus reseñas.
 
 ### Modelo
-![imagen del modelo](./docs/image.png)
+![imagen del modelo](md.image/mdv3.drawio.png)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
