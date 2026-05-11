@@ -29,14 +29,14 @@ Se desarrollará un sistema que permitirá a los usuarios calificar y reseñar p
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Proyecto <br>3. CRUD Artista|
 |CRUD dependiente|1. CRUD Reseña {depende de} CRUD Usuario y CRUD Proyecto <br>2. CRUD Reporte {depende de} CRUD Reseña y CRUD usuario|
 |Listado<br>+<br>detalle| 1. Listado de Proyectos filtrado por genero, artista, nombre y tipo de proyecto => detalle CRUD Proyectos<br> 2. Listado de usuarios filtrado por nombre => detalle muestra datos completos del usuario.|
-|CUU/Epic|1. Dar de baja un usuario <br>2. Reportar un usuario o Reseña.|
+|CUU/Epic|1. Reseñar de la lista "populares" <br>2. Reportar un usuario o Reseña.|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Usuario<br>2. CRUD Proyecto<br>3. CRUD Artista<br>4. CRUD Genero<br>5. CRUD Reporte <br>6. CRUD Playlist<br>7. CRUD Reseña|
-|CUU/Epic|1. Dar de baja un usuario<br>2. Reportar un usuario o Reseña.<br>3. Realizar una reseña|
+|CUU/Epic|1. Reseñar de la lista "populares"<br>2. Reportar un usuario o Reseña.<br>3. Realizar una reseña|
 
 
 ### Alcance Adicional Voluntario
